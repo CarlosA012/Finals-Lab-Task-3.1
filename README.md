@@ -12,4 +12,44 @@
 
 
 
-- Task 1 
+- Task 1
+
+<img src="images/task1.png" alt="Alt Text" width="600">
+
+ 
+- Task 1 table structure
+
+<img src="images/task 1 query.png" alt="Alt Text" width="600">
+
+
+- Task 2
+
+<img src="images/task 2.png" alt="Alt Text" width="600">
+
+- Task 2 table structure
+
+<img src="images/task 2 query.png" alt="Alt Text" width="600">
+
+- Task 3
+
+<img src="images/task 3.png" alt="Alt Text" width="600">
+
+- Task 3 table structure
+
+<img src="images/task 3 query.png" alt="Alt Text" width="600">
+
+- Task 4
+
+<img src="images/task 4.png" alt="Alt Text" width="600">
+
+- Task 4 table structure
+
+<img src="images/task 4 query.png" alt="Alt Text" width="600">
+
+- Task 5
+
+<img src="images/task 5.png" alt="Alt Text" width="600">
+
+- Task 5 table structure
+
+<img src="images/task 5 query.png" alt="Alt Text" width="600">
